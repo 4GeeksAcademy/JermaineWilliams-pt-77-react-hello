@@ -7,7 +7,7 @@ const Home = () => {
 	setInterval(() => {
 		setSeconds(seconds++)
 		
-	}, 20);
+	}, 100);
 
 	return(
 		<div className="text-center">
